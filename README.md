@@ -46,7 +46,7 @@ To run this notebook locally:
 
 Clone the repository:
 
-git clone https://github.com/your-username/diwali-sales-analysis.git
+git clone https://github.com/hemantakumargit/diwali-sales-analysis.git
 
 
 Navigate to the project directory:
